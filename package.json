@@ -1,0 +1,22 @@
+{
+  "name": "acceptancetest",
+  "version": "1.0.0",
+  "description": "Framework for wdio acceptance tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nipunkx/acceptanceTest.git"
+  },
+  "keywords": [
+    "wdio"
+  ],
+  "author": "Nipun Xavier <nipun.xavier@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nipunkx/acceptanceTest/issues"
+  },
+  "homepage": "https://github.com/nipunkx/acceptanceTest#readme"
+}
